@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Escalation POC
 
 A local-only FastAPI demonstration of a technical support escalation workflow.
@@ -30,4 +29,4 @@ this demo on a public network or connect it to production systems.
 =======
 # escalation-poc
 Python-based technical support escalation management system that automates workflows between Zendesk, Google Chat, Claude AI, and internal vehicle databases. Streamlines ticket escalation, AI-assisted diagnostics, manager collaboration, and resolution tracking through event-driven automation.
->>>>>>> 8c6366f0734965dddb1442cf2eba223fb11607c7
+
